@@ -1,8 +1,8 @@
-import React from 'react'
-import { Switch, Route, Redirect } from 'react-router-dom'
-import Main from '../views/Main'
-import Profile from '../views/Profile'
-import Navbar from '../components/Navbar'
+import React from 'react';
+import { Switch, Route, Redirect } from 'react-router-dom';
+import Main from '../views/Main';
+import Profile from '../views/Profile';
+import Navbar from '../components/Navbar';
 
 const DashboardRoutes = () => {
     return (
